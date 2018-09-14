@@ -35,10 +35,8 @@
   ],
   "homepage": "https://github.com/FBDevCLagos/react-zero-to-ninja#readme",
   "dependencies": {
-    "images": "^3.0.1",
-    "react": "^16.5.0",
-    "react-bootstrap": "^0.32.4",
-    "react-dom": "^16.5.0"
+    "react": "^16.4.2",
+    "react-dom": "^16.4.2"
   },
   "devDependencies": {
     "autoprefixer": "^9.1.5",
